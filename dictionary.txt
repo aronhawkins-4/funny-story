@@ -1,2 +1,25 @@
   German   English
 1. musik : music
+2. Raesfeld - Raesfeld 
+3. Flughafen - Airport
+4. Berlin - Berlin
+5. Bratwurst - Bratwurst
+6. Hauptstrasse - Main road
+7. Brot - Loaf
+8. Gauss - Gauss
+9. Klimaanlage - Air conditioning
+10. Rammstein - Rammstein
+11. Porsche - Porsche
+12. BMW - BMW
+13. Biergarten - Beer garden
+14. Ratskeller - Tavern (Could just be Ratskeller as well)
+15. Dirndel - Dress
+16. Lederhose - Leather breeches (Could just leave as Lederhose as well)
+17. Audi - Audi 
+18. Schloss - Lock
+19. Munich - Munich
+20. Wettbewerbsfaehig - Competitive
+21. Mehlhase - Mehlhase
+22. Gebaeck - Pastry
+23. Baeckerei - Bakery
+24. Hund - Dog
